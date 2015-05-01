@@ -8,8 +8,8 @@ body {
 }
 
 #clock {
-  height: 100px;
-  width: 800px;
+  height: 30rem;
+  width: 80rem;
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
