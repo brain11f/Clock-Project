@@ -7,10 +7,10 @@ $(document).ready(function() {
       var seconds = currentTime.getSeconds();
 
       if (hours < 10) {
-      seconds = '0' + seconds;
+      hours = '0' + hours;
     }
       if (minutes < 10) {
-      seconds = '0' + seconds;
+      minutes = '0' + minutes;
     }
       if (seconds < 10) {
       seconds = '0' + seconds;
